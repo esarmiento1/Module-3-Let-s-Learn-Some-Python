@@ -1,0 +1,6 @@
+user_name = input("Enter a name: ")
+print("Welcome "+user_name)
+
+#Eric Sarmiento
+#7/21/2024
+#The program welcomes the user 
